@@ -1,13 +1,43 @@
-# Fluent Voices
+# Fluent Voices 🌟
+
+[![Astro](https://img.shields.io/badge/Astro-5.0.0?-FF4F40?style=flat&logo=astro&logoColor=white)](https://astro.build)
+[![React](https://img.shields.io/badge/React-18.2.0?-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.1?-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3?-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![License MIT](https://img.shields.io/github/license/Devanshrocks4/fluentvoices?style=flat&logo=github)](LICENSE)
+
+A modern, high-performance website for **Fluent Voices** - a student-led organization empowering voices through communication, leadership, and social responsibility. 🚀
+
+This project represents a complete migration from Wix to **Astro + React**, delivering superior performance, maintainability, and user experience.
 
 A modern, high-performance website for Fluent Voices, a student-led organization empowering voices through communication, leadership, and social responsibility. This project represents a complete migration from Wix to Astro, delivering superior performance, maintainability, and user experience.
+
+## 🚀 Live Demos
+
+| Platform | URL | Status |
+|----------|-----|--------|
+| Cloudflare Pages | [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-Live-brightgreen)](https://fluentvoices.pages.dev/) | https://fluentvoices.pages.dev/ |
+| Netlify | [![Netlify](https://img.shields.io/badge/Netlify-Live-00C7B7?style=flat&logo=netlify)](https://thefluentvoices.netlify.app/) | https://thefluentvoices.netlify.app/ |
+
+## 📋 Table of Contents
+
+- [🌟 Project Overview](#-project-overview)
+- [✨ Features](#-features)
+- [🏗️ Tech Stack](#-tech-stack)
+- [🚀 Quick Start](#-quick-start)
+- [📁 Project Structure](#-project-structure)
+- [🎨 Design System](#-design-system)
+- [🧪 Testing & CI](#-testing--ci)
+- [🌍 Deployment](#-deployment)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ## 🌟 Project Overview
 
 Fluent Voices is dedicated to empowering students by fostering confidence in public speaking, developing leadership skills, and driving meaningful social impact through CSR initiatives. The website serves as the digital hub for the organization, showcasing events, podcasts, leadership team, and community engagement opportunities.
 
 ### 🎯 Mission
-Building a community of confident communicators and impactful leaders who create positive change through communication and action.
+> Building a community of confident communicators and impactful leaders who create positive change through communication and action. 💬✨
 
 ## ✨ Features
 
@@ -234,17 +264,33 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- **Fluent Voices Team**: For their vision and leadership
-- **Astro Community**: For the incredible framework
-- **Open Source Contributors**: For the amazing tools and libraries
+- 🎓 **Fluent Voices Team** - For their vision and leadership
+- 🚀 **Astro Community** - For the incredible framework
+- ❤️ **Open Source Contributors** - For the amazing tools and libraries
 
-## 📞 Contact
+## 📞 Contact & Socials
 
-- **Website**: [fluentvoices.com](https://fluentvoices.com)
-- **Email**: info@fluentvoices.com
-- **Social Media**: [@thefluentvoices](https://instagram.com/thefluentvoices)
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-@thefluentvoices-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thefluentvoices)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fluent%20Voices-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/company/fluentvoices)
+[![Email](https://img.shields.io/badge/Email-info@fluentvoices.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@fluentvoices.com)
+
+</div>
+
+## ⭐ Give a Star! 🌟
+
+If this project helps you, please consider giving it a star ⭐ on GitHub!
+
+<div align="center">
+  <a href="https://github.com/Devanshrocks4/fluentvoices">
+    <img src="https://img.shields.io/github/stars/Devanshrocks4/fluentvoices?style=social" alt="GitHub stars">
+  </a>
+</div>
 
 ---
 
-*Built with ❤️ using Astro, React, and modern web technologies*
-# fluentvoices
+<div align="center">
+  Built with ❤️ using **Astro**, **React**, **TailwindCSS** and modern web technologies<br>
+  <sub>© 2024 Fluent Voices. All rights reserved.</sub>
+</div>
